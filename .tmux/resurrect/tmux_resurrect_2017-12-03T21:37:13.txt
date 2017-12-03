@@ -1,0 +1,7 @@
+pane	0	0	:bash	0	:	0	:/home/gturelli	1	bash	:
+pane	0	1	:Admin	0	:-	0	:/home/gturelli	1	bash	:
+pane	0	2	:Dev	1	:*	0	:/home/gturelli	1	bash	:
+window	0	0	0	:	c17e,186x54,0,0,1
+window	0	1	0	:-	c17f,186x54,0,0,2
+window	0	2	1	:*	c180,186x54,0,0,3
+state	0	
